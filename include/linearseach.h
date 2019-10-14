@@ -8,8 +8,10 @@
 #endif //EX01_LINEARSEARCH_VALLADARESASSC_LINESEARCH_H
 
 
-#include <cstint>
+
 #include <cstddef>
+#include <cstdint>
+
 
 namespace edu {namespace vcccd { namespace vc { namespace csv15 {
  template <class T>
